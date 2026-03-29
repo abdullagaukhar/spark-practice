@@ -39,3 +39,6 @@ docker run -it --rm -p 8888:8888 jupyter/pyspark-notebook
 - ✅ Result is not empty
 - ✅ All 1997 restaurants present in result
 - ✅ Output parquet file exists
+
+## Screenshots
+See `screenshots.pdf` for detailed step-by-step documentation.
